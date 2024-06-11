@@ -25,12 +25,13 @@
     justify-content: center;
   
 }
-#sid{
+#sid {
     justify-content: center;
     width: 80%;
     height: 100%;
+    text-align: right;
     border-radius: 5%;
-    font-size: medium;
+    font-size: 150%;
 }
 .buttons{
     margin-top: 3%;
